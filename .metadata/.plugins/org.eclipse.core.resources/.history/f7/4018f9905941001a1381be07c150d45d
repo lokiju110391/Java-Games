@@ -1,0 +1,26 @@
+package controller;
+
+import java.awt.Graphics;
+
+public class Enemy {
+
+	public double x,y;
+	
+	public Enemy(int x, int y) {
+
+		
+		
+	}
+	
+	public void tick() {
+		
+	}
+	
+		
+	public void render(Graphics g) {
+		
+	}
+	
+	
+	
+}

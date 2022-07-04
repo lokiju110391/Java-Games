@@ -1,0 +1,24 @@
+package controller;
+
+import java.awt.Graphics;
+
+public class Enemy {
+
+	public double x,y;
+	
+	public Enemy() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void tick() {
+		
+	}
+	
+		
+	public void render(Graphics g) {
+		
+	}
+	
+	
+	
+}
